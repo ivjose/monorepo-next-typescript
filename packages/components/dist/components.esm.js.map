@@ -1,0 +1,1 @@
+{"version":3,"file":"components.esm.js","sources":["../lib/components.js"],"sourcesContent":["'use strict';\n\nmodule.exports = components;\n\nfunction components() {\n    // TODO\n}\n"],"names":["module","exports"],"mappings":"AAEAA,OAAOC,QAEP"}
